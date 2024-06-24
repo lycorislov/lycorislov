@@ -1,6 +1,5 @@
-# CONTENT
+# PALESTINE RESOURCES
 
-PALESTINE RESOURCES
 https://viacampesina.org/en/urgent-call-for-solidarity-with-palestine-sign-the-petition/
 
 https://decolonizepalestine.com
