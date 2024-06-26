@@ -1,6 +1,5 @@
 ```
-     ‼️➡️ ATTENTION ; This page is still a MAJOR WIP and will continue to be updated regularly as I figure GitHub out! 
-```
+     ‼️➡️ ATTENTION ; This page is still a MAJOR WIP and will continue to be updated regularly as I figure GitHub out!
 
 
 <h1 align="center"> 
@@ -35,6 +34,11 @@ https://www.palestineremembered.com/index.html
 
 https://arab.org/click-to-help/palestine/thank-you/
 
+https://app.jotform.com/233132600098852?utm_source=jotform_pwa&fbclid=IwAR1_eHkBOt5H71CrJjKEi_XTct-XW83fccSlLt4mOqTTaA0aK9p1ayAGXi4
+
+https://www.rescue.org
+
+https://www.care.org
 
 
 
@@ -51,6 +55,13 @@ https://sapa-usa.org/hope-for-sudan/
 https://sihanet.org/periods-dont-stop-for-war-stand-with-sudanese-women-and-girls-they-need-your-help-now/
 
 https://500wordsmag.com/suda-lists/how-to-help-the-people-of-sudan/
+
+https://www.worldvision.org/disaster-relief-news-stories/sudan-crisis-faqs#:~:text=As%20one%20of%20the%20largest,nutrition%20programs%2C%20sanitation%20and%20hygiene
+
+https://sdnrlf.com
+
+https://irusa.org
+
 
 <h1 align="center"> 
    🇨🇩 CONGO RESOURCES 🇨🇩
