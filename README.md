@@ -31,5 +31,43 @@ https://www.palestineremembered.com/index.html
 https://arab.org/click-to-help/palestine/thank-you/
 
 <h1 align="center"> 
-     PALESTINE RESOURCES
+     SUDAN RESOURCES & INFO
 </h1> 
+
+https://www.aljazeera.com/program/inside-story/2020/9/11/displacement-despair-and-disease-in-flood-ravaged-sudan
+
+https://medglobal.org/sudan-emergency-appeal/
+
+https://sapa-usa.org/hope-for-sudan/
+
+https://sihanet.org/periods-dont-stop-for-war-stand-with-sudanese-women-and-girls-they-need-your-help-now/
+
+https://500wordsmag.com/suda-lists/how-to-help-the-people-of-sudan/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
