@@ -1,3 +1,8 @@
+```
+     ! ATTENTION ; This page is still a MAJOR WIP and will continue to be updated regularly as I figure GitHub out!
+```
+
+
 <h1 align="center"> 
    🇵🇸 PALESTINE RESOURCES 🇵🇸
 </h1> 
