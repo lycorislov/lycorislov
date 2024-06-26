@@ -17,12 +17,3 @@ https://www.amnesty.org/en/petition/demand-a-ceasefire-by-all-parties-to-end-civ
 https://www.palestineremembered.com/index.html
 
 https://arab.org/click-to-help/palestine/thank-you/
-
---- place holder --- 
-https://fictiondoesaffectreality.carrd.co/#sources
-
---- place holder ---
-https://web.archive.org/web/20231127144917/https://lesboys.carrd.co/
-https://male-lesbians.carrd.co/#explanation
-
-
