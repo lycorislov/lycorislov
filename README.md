@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   🇵🇸  PALESTINE RESOURCES 🇵🇸
+   🇵🇸 PALESTINE RESOURCES 🇵🇸
 </h1> 
 
 <div align="center">
@@ -47,7 +47,9 @@ https://sihanet.org/periods-dont-stop-for-war-stand-with-sudanese-women-and-girl
 
 https://500wordsmag.com/suda-lists/how-to-help-the-people-of-sudan/
 
-
+<h1 align="center"> 
+   🇨🇩 CONGO RESOURCES 🇨🇩
+</h1> 
 
 
 
