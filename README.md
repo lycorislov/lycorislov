@@ -10,11 +10,17 @@ https://viacampesina.org/en/urgent-call-for-solidarity-with-palestine-sign-the-p
 
 https://decolonizepalestine.com
 
+https://bdsmovement.net/what-is-bds
+
+https://gazaesims.com
+
 https://ceasefiretoday.com
 
 https://savepalestine.carrd.co
 
 https://www.pcrf.net/
+
+https://donate.unrwa.org/-landing-page/en_EN
 
 https://free-palestine.carrd.co
 
