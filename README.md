@@ -12,7 +12,7 @@ https://decolonizepalestine.com
 
 https://bdsmovement.net/what-is-bds
 
-https://gazaesims.com
+https://gazaesims.com / https://cartoonist.coop/journal/cartoonist-cooperative-buy-an-e-sim-for-gaza-donation-drive/
 
 https://ceasefiretoday.com
 
@@ -30,3 +30,6 @@ https://www.palestineremembered.com/index.html
 
 https://arab.org/click-to-help/palestine/thank-you/
 
+<h1 align="center"> 
+     PALESTINE RESOURCES
+</h1> 
