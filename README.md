@@ -1,5 +1,5 @@
 ```
-     ‼️➡️ ATTENTION ; Many linked resources below have donations available  for more than one country. (EX: irusa, rescue.org, crisisrelief.un.org,  etc.) This page is additionally still a MAJOR WIP and will continue to be updated regularly when I am able to as I figure GitHub and Rentry out! 
+     ‼️➡️ ATTENTION ; Many linked resources below have donations available  for more than one country. (EX: irusa, rescue.org, crisisrelief.un.org, etc.) I will work on a section that better organizes multi-focused websites. This page is additionally still a MAJOR WIP and will continue to be updated regularly when I am able to as I figure GitHub and Rentry out! I am also welcome to being given additional resources to add here.
 
 ```
 
