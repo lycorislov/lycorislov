@@ -21,7 +21,3 @@ https://www.palestineremembered.com/index.html
 
 https://arab.org/click-to-help/palestine/thank-you/
 
-</div>
-
-<div align="center">
-testing
