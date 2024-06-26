@@ -1,5 +1,5 @@
 <h1 align="center"> 
-     PALESTINE RESOURCES
+   🇵🇸  PALESTINE RESOURCES 🇵🇸
 </h1> 
 
 <div align="center">
@@ -34,7 +34,7 @@ https://arab.org/click-to-help/palestine/thank-you/
 
 
 <h1 align="center"> 
-     SUDAN RESOURCES & INFO
+    🇸🇩 SUDAN RESOURCES & INFO 🇸🇩
 </h1> 
 
 https://www.aljazeera.com/program/inside-story/2020/9/11/displacement-despair-and-disease-in-flood-ravaged-sudan
