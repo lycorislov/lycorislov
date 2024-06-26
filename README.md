@@ -1,5 +1,5 @@
 ```
-     ‼️➡️ ATTENTION ; This page is still a MAJOR WIP and will continue to be updated regularly as I figure GitHub out!
+     ‼️➡️ ATTENTION ; Many linked resources below apply for more than one country. (EX: irusa, rescue.org, This page is additionally still a MAJOR WIP and will continue to be updated regularly as I figure GitHub and Rentry out!
 
 ```
 
