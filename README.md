@@ -93,6 +93,10 @@ https://atsiko.wordpress.com/2020/07/27/does-fiction-affect-reality-duh/
 
 https://storyembers.org/fiction-and-reality-arent-as-far-apart-as-you-think/
 
+https://fictiondoesaffectreality.carrd.co/#sources
+
+
+
 
 
 
