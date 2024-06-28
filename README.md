@@ -1,11 +1,6 @@
 ```
-     ‼️➡️ ATTENTION ; Many linked resources below have donations available  for more than one country. (EX: irusa, rescue.org, crisisrelief.un.org, etc.) I will work on a section that better organizes multi-focused websites. This page is additionally still a MAJOR WIP and will continue to be updated regularly when I am able to as I figure GitHub and Rentry out! 
+     ‼️➡️ ATTENTION ; Many linked resources below have donations available  for more than one country. (EX: irusa, rescue.org, crisisrelief.un.org, etc.) I will work on a section that better organizes multi-focused websites. This page is additionally still a MAJOR WIP and will continue to be updated regularly when I am able to as I figure GitHub and Rentry out! I am welcome to suggestions, reccomendations and info about any sources. If you have any other topics that you think should be added, feel free to let me know. Please note that I do not use this GitHub to stirr discourse or arguments, and I simply wish to educate and inform. 
 
-```
-
-```
-
-     I am welcome to suggestions, reccomendations and info about any sources. If you have any other topics that you think should be added, feel free to let me know. Please note that I do not use this GitHub to stirr discourse or arguments, and I simply wish to educate and inform. 
 ```
 
 <h1 align="center"> 
@@ -73,6 +68,17 @@ https://irusa.org
    🇨🇩 CONGO RESOURCES 🇨🇩
 </h1> 
 
+https://www.doctorswithoutborders.org/what-we-do/where-we-work/democratic-republic-congo
+
+https://www.warchild.org.uk/our-work/where-we-work/democratic-republic-of-congo
+
+https://healafrica.org/donate/
+
+https://friendsofthecongo.org/campaigns/
+
+https://www.concern.org.uk/donate/drc-hunger-crisis
+
+
 <h1 align="center"> 
 🇱🇧 LEBANON RESOURCES & INFO 🇱🇧
 </h1> 
@@ -81,18 +87,27 @@ https://irusa.org
  🇺🇦 UKRAINE RESOURCES & INFO 🇺🇦
 </h1> 
 
+https://linktr.ee/ukrainewithouthype
+
+https://yemencrisis.carrd.co
+
 <h1 align="center"> 
 🇾🇪 YEMEN RESOURCES & INFO 🇾🇪
 </h1> 
 
+https://islamic-relief.org/appeals/yemen-crisis/#:~:text=Donate%20Now%20and%20help%20save%20lives%20in%20Yemen.&text=Islamic%20Relief%20Yemen%20continues%20to,Yemen%20Humanitarian%20Fund%20(YHF).
+
 <h1 align="center"> 
 LESBIAN HISTORY & INFO 
 </h1> 
+
 https://lesbianherstoryarchives.org
 
 <h1 align="center"> 
-FICTION & REALITY INFO
+POSITIVES/NEGATIVES OF FICTION & REALITY INFO
 </h1> 
+
+https://www.bostonglobe.com/ideas/2012/04/28/why-fiction-good-for-you-how-fiction-changes-your-world/nubDy1P3viDj2PuwGwb3KO/story.html
 
 https://atsiko.wordpress.com/2020/07/27/does-fiction-affect-reality-duh/
 
